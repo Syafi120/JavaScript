@@ -1,0 +1,24 @@
+[
+    {
+        "idmenu"     : 8,
+        "idkategori" : 29,
+        "menu"       : "Baju terkini",
+        "harga"      : 64000,
+        "warna"      : ["hijau", "kuning", "merah"],
+        "stok"       : true,
+        "keterangan" : null
+    
+    
+    },
+    {
+        "idmenu"     : 10,
+        "idkategori" : 27,
+        "menu"       : "set kekinian",
+        "harga"      : 40000,
+        "warna"      : ["kuning", "merah"],
+        "stok"       : true,
+        "keterangan" : null
+    
+    
+    }
+]
